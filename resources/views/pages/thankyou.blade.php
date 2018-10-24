@@ -2,6 +2,6 @@
 
 @section('content')
 
-    <h1>Hello {{$name}},<br> Thank you for your message!<br></h1>
+    <h1>Hello {{$name}},Thank you for your message!</h1>
 
 @endsection
